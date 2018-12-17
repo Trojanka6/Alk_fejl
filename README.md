@@ -9,18 +9,5 @@ Célunk egy olyan alkalmazás elkészítése, mely lehetővé teszi a tanulókna
 Nem minden tanuló jogosult minden tantárgyat felvenni, ezt a neptun kódjuk alapján lehet ellenőrizni.
 Betelt kurzusok esetén üzenet a felhasználónak. A felvett tárgyaikat le tudják adni. 
 
-Vendég
-  regisztráció
-  bejelentkezés
-Hallgató
-  kijelentkezés
-  tárgyak böngészése
-  tanórák böngészése
-  tanóra felvétele
-  tanóra leadása
-Tanár
-  kijelentkezés
-  saját tanórákra járó hallgatók megtekintése
-  hallgatók lejelentkeztetése saját tanóráról
   
   
